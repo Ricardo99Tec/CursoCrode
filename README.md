@@ -1,1 +1,4 @@
 # CursoCrode
+## Formato
+""Negritas""
+*Cursiva*
